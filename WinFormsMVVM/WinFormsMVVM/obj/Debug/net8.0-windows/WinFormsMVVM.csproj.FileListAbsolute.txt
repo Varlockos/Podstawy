@@ -1,0 +1,15 @@
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\bin\Debug\net8.0-windows\WinFormsMVVM.exe
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\bin\Debug\net8.0-windows\WinFormsMVVM.deps.json
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\bin\Debug\net8.0-windows\WinFormsMVVM.runtimeconfig.json
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\bin\Debug\net8.0-windows\WinFormsMVVM.dll
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\bin\Debug\net8.0-windows\WinFormsMVVM.pdb
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.AssemblyInfoInputs.cache
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.AssemblyInfo.cs
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.csproj.CoreCompileInputs.cache
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.sourcelink.json
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.dll
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\refint\WinFormsMVVM.dll
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.pdb
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\WinFormsMVVM.genruntimeconfig.cache
+C:\Repos\Podstawy\WinFormsMVVM\WinFormsMVVM\obj\Debug\net8.0-windows\ref\WinFormsMVVM.dll
