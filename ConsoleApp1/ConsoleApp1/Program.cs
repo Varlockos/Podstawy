@@ -12,7 +12,7 @@
             PinService pinService = new PinService();
             pinService.CheckPin(pin);
 
-            // Lista (tablica)
+            // Lista (tablica dynamiczna)
             List<int> tab = new List<int>();
             tab.Add(1);
             tab.Add(2);
